@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{error404-page.netlify.app/}">
+    <a href="https://{https://error404-page.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/AdeGneus/error404}">
+    <a href="https://{https://github.com/AdeGneus/error404}">
       Solution
     </a>
     <span> | </span>
@@ -68,5 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/AdeGneus})
-- Twitter [@your-twitter](https://{twitter.com/ade_gneus})
+- GitHub [@your-username](https://{https://github.com/AdeGneus})
+- Twitter [@your-twitter](https://{https://twitter.com/ade_gneus})
